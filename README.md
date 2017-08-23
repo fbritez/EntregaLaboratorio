@@ -1,5 +1,5 @@
-# EntregaLaboratorio
-Entrega de la materia Laboratorio de Redes y Sistemas Operativos. 
+# Entrega Laboratorio de Redes y Sistemas Operativos
+Entrega de la materia Laboratorio de Redes y Sistemas Operativos de la Universidad Nacional de Quilmes (http://www.unq.edu.ar/).
 
 El mismo consistia en documentar la instalación de un programa en el sistema operativo Linux. En este caso se eligio el programa NextCloud
 (https://nextcloud.com/).
