@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Definici\IeC {\'o}n y alcance}{2}
+\contentsline {section}{\numberline {2}NextCloud \IeC {\textquestiondown }Qu\IeC {\'e} es?.}{2}
+\contentsline {section}{\numberline {3}Instalacion Manual en Linux}{3}
+\contentsline {subsection}{\numberline {3.1}Pre requs\IeC {\'\i }tos}{3}
+\contentsline {subsection}{\numberline {3.2}Obtener NextCloud}{3}
+\contentsline {subsection}{\numberline {3.3}Ubicar NextCloud en nuestro sistema}{4}
+\contentsline {subsection}{\numberline {3.4}Configuraci\IeC {\'o}n de bases de datos y servidor}{4}
+\contentsline {subsubsection}{\numberline {3.4.1}Configuraci\IeC {\'o}n servidor (Apache2)}{4}
+\contentsline {subsubsection}{\numberline {3.4.2}Configuracion de la base de datos(MariaDB)}{5}
+\contentsline {subsection}{\numberline {3.5}Poner a andar NextCloud}{5}
+\contentsline {section}{\numberline {4}Instalador Automatico en Linux}{7}
+\contentsline {section}{\numberline {5}Detalles extras del trabajo}{8}
+\contentsline {subsection}{\numberline {5.1}Ambiente de pruebas}{8}
+\contentsline {subsection}{\numberline {5.2}Dificultades}{8}
